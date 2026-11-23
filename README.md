@@ -1,4 +1,5 @@
 Meu Controle Financeiro 💰
+
 📱 Sobre o projeto
 O Meu Controle Financeiro é um aplicativo mobile desenvolvido em Kotlin utilizando o Android Studio, com o objetivo de auxiliar os usuários no gerenciamento de suas finanças pessoais.
 
